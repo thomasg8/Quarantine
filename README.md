@@ -6,6 +6,7 @@ I initialized an n x n map with values of 1 or 0 based on a given probability of
 50x50 with 50% probability of land            |  150x150 with 50% probability of land
 :-------------------------:|:-------------------------:
 ![](Imgs/land_generation50.gif)  |  ![](Imgs/land_generation150.gif)
+
 50x50 with 57% probability of land            |  150x150 with 57% probability of land
 :-------------------------:|:-------------------------:
 ![](Imgs/land_generation50_57.gif)  |  ![](Imgs/land_generation150_57.gif)
