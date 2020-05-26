@@ -11,4 +11,6 @@ I initialized an n x n map with values of 1 or 0 based on a given probability of
 :-------------------------:|:-------------------------:
 ![](Imgs/land_generation50_57.gif)  |  ![](Imgs/land_generation150_57.gif)
 
+** Reload the page to reset gifs. Currently troubleshooting this. 
+
 Lowering the land probability creates islands, which would isolate certain populations if the animals could not swim; therefore, I will be using higher land probabilities to create lake biomes rather than archipelagoes.
