@@ -28,4 +28,6 @@ I initialized an n x n map with values of 1 or 0 based on a given probability of
 
 Lowering the land probability creates islands, which would isolate certain populations if the animals could not swim; therefore, I will be using higher land probabilities to create lake biomes rather than archipelagoes.
 
+Code: https://github.com/thomasg8/Quarantine/blob/master/TerrainGeneration.ipynb
+
 To Do: Create environment in pygame or Unity, add animals to enviorment, make animals compete aginst each other (functionality and model)
