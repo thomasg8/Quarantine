@@ -1,4 +1,4 @@
-Outside of my ZoomGame project, here are some short-term projects that I have been working on. 
+This repository stores my short-term projects that I have been playing around with during quarantine. 
 
 # 1. Cribbage 
 During quarantine, my mom and I play two-player Cribbage every day. That inspired me to create a class that can simulate cribbage games. The model chooses the best 4-card hand from the initial 6 cards by calculating the hand with the greatest expected points (based on the mean score of the combinations). The class scores a hand in approximately 1 millescond and chooses the 'best' hand in 0.16 seconds. The model does not take into account pegging, which player has the crib, or affinity for risk. 
